@@ -1,5 +1,14 @@
-### Hi there 👋
+# Hey Guys... 👋
+Welcome to my programming world
 
+## About me
+                                         I am Subhasish Biswasray
+                                              
+- **A** passionate coder 
+- **B**eing myself
+- **C**urrently working on several languages
+- **D**on't have much time
+- **E**xpanding my limits
 <!--
 **subhasish9583672357/subhasish9583672357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
